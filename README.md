@@ -1,0 +1,1 @@
+# Monokai-for-qtcreator-and-kdevelop-kate
