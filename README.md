@@ -1,7 +1,50 @@
-# Monokai-for-qtcreator-and-kdevelop-kate
+# Monokai for major text editors and IDEs
 
-## To install in qtCreator:
-Put Monokai.xml `~/.config/QtProject/qtcreator/styles/` and select scheme in Text Editor preferences.
+## I have personally created the qtCreator and KDE themes.
 
-## To install in kdevelop/Kate
-Simply import Monokai.kateschema in Settings fonts and colors
+### All others are made by their respective authors and under GPL.
+## qtCreator:
+Put `monokai-qt.xml` in `~/.config/QtProject/qtcreator/styles/` and select scheme in Text Editor preferences.
+
+## KDE
+Simply import `Monokai.kateschema` in Settings fonts and colors
+
+## Gnome
+Credit to Leo Iannacone for creating the gnome version
+
+> From the gnome wiki
+> ## How to install
+> To install a style just place its XML file into a folder of the style search path.
+
+> ## GtkSourceView 2
+> A typical search path for GtkSourceView version 2 looks like:
+
+> `~/.local/share/gtksourceview-2.0/styles/`
+> `/usr/share/gnome/gtksourceview-2.0/styles/`
+> `/usr/local/share/gtksourceview-2.0/styles/`
+> `/usr/share/gtksourceview-2.0/styles/`
+
+> If this does not work in your distribution you can find out your style search path with this python script. To run it you need the python bindings for GtkSourceView 2. In Debian-based distributions this is package python-gtksourceview2.
+
+> ## GtkSourceView 3
+> A typical search path for GtkSourceView version 3 looks like:
+
+> `~/.local/share/gtksourceview-3.0/styles/`
+> `/usr/share/gnome/gtksourceview-3.0/styles/`
+> `/usr/local/share/gtksourceview-3.0/styles/`
+> `/usr/share/gtksourceview-3.0/styles/`
+
+## VI/VIM
+ Place `monokai-vim.vim` in the `colors` directory of `.vim/`
+
+## Emacs
+Place `monokai-emacs.el` in the `themes` directory of the `.emacs.d/`
+
+## Netbeans
+[Follow this link](http://plugins.netbeans.org/plugin/55859/sublime-monokai-theme-for-netbeans-8)
+
+## Eclipse
+[Follow this link](http://www.eclipsecolorthemes.org/?view=theme&id=66)
+
+## JetBrains IDEs
+[Follow this link](https://darekkay.com/2014/11/23/monokai-theme-intellij/)
