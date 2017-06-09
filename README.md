@@ -40,11 +40,19 @@ Credit to Leo Iannacone for creating the gnome version
 ## Emacs
 Place `monokai-emacs.el` in the `themes` directory of the `.emacs.d/`
 
+## Atom
+[Follow this link](https://atom.io/themes/monokai)
 ## Netbeans
-[Follow this link](http://plugins.netbeans.org/plugin/55859/sublime-monokai-theme-for-netbeans-8)
+Import the plugin
 
 ## Eclipse
-[Follow this link](http://www.eclipsecolorthemes.org/?view=theme&id=66)
+Import the preferences
 
 ## JetBrains IDEs
-[Follow this link](https://darekkay.com/2014/11/23/monokai-theme-intellij/)
+Credits: https://darekkay.com/2014/11/23/monokai-theme-intellij/
+
+File → Import Settings → Select the jar file
+
+Restart IntelliJ
+
+If the color scheme isn’t applied automatically, go to File → Settings → Editor → Color & Fonts and select the right scheme
