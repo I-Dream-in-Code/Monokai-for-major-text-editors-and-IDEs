@@ -9,6 +9,13 @@ Put `monokai-qt.xml` in `~/.config/QtProject/qtcreator/styles/` and select schem
 ## KDE
 Simply import `Monokai.kateschema` in Settings fonts and colors
 
+## Konsole
+> credit https://gist.github.com/wdullaer/c1851e113bf21ccdfeff#file-monokai-colorscheme
+
+> KDE 4: `~/.kde/share/apps/konsole`
+> KDE 5: `~/.local/share/konsole`
+
+
 ## Gnome
 Credit to Leo Iannacone for creating the gnome version
 
