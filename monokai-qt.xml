@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Monokai (copy)">
+<style-scheme version="1.0" name="Monokai">
   <style name="Text" foreground="#ffffff" background="#282828" bold="true"/>
   <style name="Link" foreground="#ffaa00" bold="true"/>
   <style name="Selection" foreground="#ffffff" background="#282828" bold="true"/>
